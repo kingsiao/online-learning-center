@@ -1,0 +1,8 @@
+.cards-container {
+  width: 80% !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  height: 100% !important;
+  margin-left: 9rem;
+}

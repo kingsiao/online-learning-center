@@ -1,0 +1,13 @@
+.banner_img {
+  height: 200px !important;
+  width: 80%;
+  margin: auto;
+  background-color: #f7f7f9b4 !important;
+}
+
+.banner_text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold !important;
+}
